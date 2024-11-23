@@ -1,6 +1,6 @@
 <h2>About</h2>
 
-Simply put, a DOS/VGA style theme for BetterDiscord and Vencord/Vesktop.
+Simply put, a DOS/VGA style theme for BetterDiscord and Vencord/Vesktop forked from B4T3SS' Fallout 4 Terminal Theme.
 
 <h2>Sources</h2>
 
