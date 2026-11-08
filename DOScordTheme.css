@@ -6,10 +6,10 @@
  * @source https://github.com/SerialDreams/DOScord
 */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
+@import url('https://github.com/SerialDreams/DOScord/blob/main/src/main.scss');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+@import url('https://github.com/SerialDreams/DOScord/blob/main/src/crtEffect.css');
 /* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
 
 /* CUSTOMIZE COLORS IN HERE! */
